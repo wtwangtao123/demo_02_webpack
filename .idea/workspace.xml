@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ed65e3d4-d029-4afc-b713-31dcb3391415" name="Default Changelist" comment="" />
+    <list default="true" id="ed65e3d4-d029-4afc-b713-31dcb3391415" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo_02/hello_world01.js" beforeDir="false" afterPath="$PROJECT_DIR$/demo_02/hello_world01.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,6 +33,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1nTAcqspNAbM8zk0KMDJ7cjpZmB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -57,7 +61,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1611403788373</updated>
-      <workItem from="1611403789496" duration="3474000" />
+      <workItem from="1611403789496" duration="4055000" />
     </task>
     <task id="LOCAL-00001" summary="使用webstorm提交的内容">
       <created>1611405674229</created>
@@ -66,7 +70,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611405674229</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="使用webstorm提交的内容">
+      <created>1611407592942</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1611407592942</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
